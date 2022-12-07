@@ -2,5 +2,4 @@
 - 👀 I’m interested in coding, piano, and nature
 - 🌱 I’m currently learning SQL, JSON, and Tailwind CSS.
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me by email all this information is on my website: https://romansoobben.w3spaces.com/
 - Thanks bye!
